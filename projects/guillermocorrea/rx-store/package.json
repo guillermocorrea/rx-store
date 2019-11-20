@@ -1,0 +1,23 @@
+{
+  "name": "@guillermocorrea/rx-store",
+  "author": "Guillermo Correa (guillermo.correa.99@gmail.com)",
+  "description": "Angular store reactive implementation",
+  "keywords": [
+    "angular",
+    "store"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/guillermocorrea/rx-store.git"
+  },
+  "bugs": {
+    "url": "https://github.com/guillermocorrea/rx-store/issues"
+  },
+  "homepage": "https://github.com/guillermocorrea/rx-store",
+  "license": "MIT",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^8.2.14",
+    "@angular/core": "^8.2.14"
+  }
+}
